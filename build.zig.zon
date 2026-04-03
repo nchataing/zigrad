@@ -1,0 +1,12 @@
+.{
+    .name = .zigrad,
+    .version = "0.0.0",
+    .fingerprint = 0x48e4161b0f2839d4,
+    .minimum_zig_version = "0.16.0-dev.2565+684032671",
+    .dependencies = .{},
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+    },
+}
